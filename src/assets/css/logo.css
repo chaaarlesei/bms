@@ -11,7 +11,7 @@
 }
 
 .logo img {
-    max-height: 26px;
+    max-height: 50px;
     margin-right: 6px;
 }
 
@@ -20,4 +20,8 @@
     font-weight: 700;
     color: #012970;
     font-family: 'Nunito', sans-serif;
+}
+
+.toggle-sidebar-btn {
+    margin-left: 35px;
 }
