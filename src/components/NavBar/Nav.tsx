@@ -1,5 +1,5 @@
 import React from 'react';
-import '../assets/css/nav.css';
+import '../../assets/css/nav.css';
 import NavNotice from './NavNotice';
 import NavMessage from './NavMessage';
 import NavAvatar from './NavAvatar';

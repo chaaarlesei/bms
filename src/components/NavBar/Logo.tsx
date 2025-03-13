@@ -1,6 +1,6 @@
 import React from 'react';
-import '../assets/css/logo.css';
-import NavBrand from '../assets/img/accli-logo.png';
+import '../../assets/css/logo.css';
+import NavBrand from '../../assets/img/accli-logo.png';
 
 function Logo() {
     const handleToggleSidebar = () => {
